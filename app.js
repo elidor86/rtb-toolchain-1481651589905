@@ -2,7 +2,7 @@ var path = require('path');
 global.appRoot = path.resolve(__dirname);
 
 var winston = require('./lib/winston');
-var db = require('./lib/db');
+//var db = require('./lib/db');
 
 
 
