@@ -9,6 +9,7 @@
     "node": "6.0.0"
   },
   "dependencies": {
+    "aerospike": "^2.0.3",
     "body-parser": "~1.13.2",
     "co": "^4.6.0",
     "cookie-parser": "~1.3.5",
