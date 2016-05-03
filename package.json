@@ -16,7 +16,7 @@
     "express": "~4.13.1",
     "gcloud": "^0.30.3",
     "memcached": "^2.2.1",
-    "mongodb": "^2.1.18",
+    "mongodb": "^1.4.39",
     "morgan": "~1.6.1",
     "node-uuid": "^1.4.7",
     "serve-favicon": "~2.3.0",
