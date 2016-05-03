@@ -1,0 +1,164 @@
+[
+  {
+    "mode": "NULLABLE",
+    "name": "Year",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Day",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Month",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "URL",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Referrer",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Browser",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Browser_Ver",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Language",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "IP",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "UserAgent",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "SearchEngine",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Source_ID",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Query",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "GEO",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "BID_ID",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Publisher_ID",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "DateTS",
+    "type": "TIMESTAMP"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Date",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Job_Predict_URL",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Job_Predict_Referrer",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "URL_Protocol",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "URL_Pathname",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "BID_Value",
+    "type": "FLOAT"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "BID_Currency",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Campaign_ID",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "BID_url",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Redirect_URL",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "logs",
+    "type": "RECORD",
+    "fields": [
+      {
+        "mode": "NULLABLE",
+        "name": "timeToGetCampaign",
+        "type": "INTEGER"
+      },
+      {
+        "mode": "NULLABLE",
+        "name": "BID_Sending_Duration",
+        "type": "INTEGER"
+      }
+    ]
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "BID_Sending_Duration",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "reason",
+    "type": "STRING"
+  }
+]
