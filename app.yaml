@@ -14,7 +14,7 @@
 # [START runtime]
 runtime: nodejs
 vm: true
-threadsafe: fales
+threadsafe: false
 
 handlers:
 
