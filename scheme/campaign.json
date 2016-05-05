@@ -1,5 +1,5 @@
 {
-
+  "_id": ObjectId("572b537b165f1623604ff6ab"),
   "Channel_ID" : NumberInt(2),
   "Campaign_ID" : NumberInt(4),
   "Campaign_Name" : "lead_me",
@@ -11,6 +11,6 @@
   "Filter_URLs" : /()/,
   "Filter_KeyWords" : /()/,
   "Filter_Function" : "",
-  "Num_Of_BIDs_Sent" : 0,
-  "Num_Of_BIDS_Won" : 0
+  "Num_Of_BIDs_Sent" : NumberInt(0),
+  "Num_Of_BIDS_Won" : NumberInt(0)
 }
