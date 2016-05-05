@@ -9,6 +9,7 @@
     "node": "6.0.0"
   },
   "dependencies": {
+    "@google/cloud-debug": "^0.8.1",
     "aerospike": "^2.0.3",
     "body-parser": "~1.13.2",
     "co": "^4.6.0",
