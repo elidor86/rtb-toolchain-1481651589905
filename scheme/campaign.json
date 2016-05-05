@@ -1,0 +1,16 @@
+{
+
+  "Channel_ID" : NumberInt(2),
+  "Campaign_ID" : NumberInt(4),
+  "Campaign_Name" : "lead_me",
+  "BID_Value" : 0.005,
+  "Redirect_URL" : "http://www.lead-me.co.il/?sid=100746&utm_source=2&utm_medium=cpm&utm_campaign=2 | PC | Test",
+  "Max_Num_Of_BIDs" : NumberInt(20),
+  "Bid_URL" : "http://rtb.dans-leads.com/tracking?Campaign_ID=@@Campaign_ID@@&BID_ID=@@BID_ID@@",
+  "Filter_GEO" : /(il)/,
+  "Filter_URLs" : /()/,
+  "Filter_KeyWords" : /()/,
+  "Filter_Function" : "",
+  "Num_Of_BIDs_Sent" : 0,
+  "Num_Of_BIDS_Won" : 0
+}
