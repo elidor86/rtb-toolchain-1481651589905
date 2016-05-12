@@ -1,0 +1,15 @@
+
+
+    "Channel_ID" : NumberInt(2),
+       "Campaign_ID" : NumberInt(200),
+       "Campaign_Name" : "onlyIndeed",
+       "BID_Value" : 0.005,
+       "Redirect_URL" : "https://target-talent.com/campaigns/jobs/suggest?ch=C200&provider=2",
+       "Max_Num_Of_BIDs" : NumberInt(100),
+       "Bid_URL" : "http://rtb.dans-leads.com/tracking?Campaign_ID=@@Campaign_ID@@&BID_ID=@@BID_ID@@",
+       "Filter_GEO" : /(us)/,
+       "Filter_URLs" : /(\.indeed\.)/,
+       "Filter_KeyWords" : /()/,
+       "Filter_Function" : "jobsPredict",
+       "Num_Of_BIDs_Sent" : NumberInt(0),
+       "Num_Of_BIDS_Won" : NumberInt(0),
