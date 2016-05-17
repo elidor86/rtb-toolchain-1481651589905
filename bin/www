@@ -44,7 +44,7 @@ var startServer = function () {
         var app = require('../app');
 
 
-        http.globalAgent.maxSockets = Infinity;
+        http.globalAgent.maxSockets = 30000;
 
         var httpServer = http.createServer(app).listen(process.env.PORT || 3000);
 

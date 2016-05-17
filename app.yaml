@@ -19,7 +19,7 @@ threadsafe: true
 
 # [START resources]
 resources:
-  cpu: 3
+  cpu: 4
   memory_gb: 5
   disk_size_gb: 10
 # [END resources]
