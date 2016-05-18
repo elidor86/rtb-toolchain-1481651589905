@@ -6,7 +6,7 @@
     "start": "node ./bin/www"
   },
   "engines": {
-    "node": "6.2.0"
+    "node": "6.0.0"
   },
   "dependencies": {
     "@google/cloud-debug": "^0.8.1",

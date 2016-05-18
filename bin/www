@@ -35,7 +35,7 @@ var startServer = function () {
     }
     else {
         if (!process.env.DEV) {
-            require('@google/cloud-debug');
+         //   require('@google/cloud-debug');
         }
 
         var http = require('http');
@@ -44,7 +44,7 @@ var startServer = function () {
         var app = require('../app');
 
 
-        http.globalAgent.maxSockets = 30000;
+        http.globalAgent.maxSockets = Infinity;
 
         var httpServer = http.createServer(app).listen(process.env.PORT || 3000);
 
