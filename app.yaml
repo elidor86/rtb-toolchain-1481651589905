@@ -12,9 +12,9 @@
 # limitations under the License.
 #
 # [START runtime]
-runtime: nodejs
+runtime: custom
 vm: true
-threadsafe: true
+threadsafe: false
 
 
 # [START resources]
