@@ -10,6 +10,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="7c8e3513-8c86-4294-8d42-a31fe273b735" name="130.211.116.93" url="http://130.211.116.93">
+        <fileTransfer host="130.211.116.93" port="21" username="elidorftp">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </project>
