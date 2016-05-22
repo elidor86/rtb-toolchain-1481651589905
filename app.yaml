@@ -20,8 +20,8 @@ threadsafe: false
 # [START resources]
 resources:
   cpu: 4
-  memory_gb: 5
-  disk_size_gb: 10
+  memory_gb: 10
+  disk_size_gb: 20
 # [END resources]
 
 # [START scaling]
