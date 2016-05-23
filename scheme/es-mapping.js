@@ -1,5 +1,9 @@
 var index = {
     "settings": {
+        "index" : {
+            "number_of_shards" : 10,
+            "number_of_replicas" : 0
+        },
         "analysis": {
             "analyzer": {
                 "job_analyzer": {
