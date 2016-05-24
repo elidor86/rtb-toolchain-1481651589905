@@ -13,6 +13,7 @@ var express = require('express');
 
 var routes = require('./routes/index');
 var tracking = require('./routes/tracking');
+var stats = require('./routes/stats');
 
 var app = express();
 app.disable('etag');
@@ -32,6 +33,7 @@ app.disable('etag');
 
 app.use('/', routes);
 app.use('/tracking', tracking);
+app.use('/stats', stats);
 
 
 module.exports = app;
