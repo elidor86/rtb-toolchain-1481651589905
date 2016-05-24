@@ -7,11 +7,10 @@ var startServer = function () {
 
     if (cluster.isMaster) {
 
-
         var numWorkers = require('os').cpus().length;
 
         if (process.env.DEV == 'true') {
-            //   numWorkers = 0;
+               numWorkers = 1;
         }
 
         //numWorkers = 1;
