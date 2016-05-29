@@ -18,14 +18,32 @@ var a = {
 
 var a = {
     "Channel_ID": 2,
-    "Campaign_ID": 300,
-    "Campaign_Name": "indeed-us",
-    "BID_Value": 0.005,
-    "Redirect_URL": "http://www.mb103.com/lnk.asp?o=9577&c=918271&a=191204",
+    "Campaign_ID": 301,
+    "Campaign_Name": "dating-us",
+    "BID_Value": 0.003,
+    "Redirect_URL": "http://www.mb103.com/lnk.asp?o=9338&c=918271&a=191204",
     "Max_Num_Of_BIDs": 5000,
     "Bid_URL": "http://rtb.dans-leads.com/tracking?Campaign_ID=@@Campaign_ID@@&BID_ID=@@BID_ID@@",
-    "Filter_GEO": "(us)",
-    "Filter_URLs": "(netflix)",
+    "Filter_GEO": "(fr)",
+    "Filter_URLs": "(sortir ensemble|dating)",
+    "Filter_KeyWords": "()",
+    "Filter_Function": "",
+    "Num_Of_BIDs_Sent": 0,
+    "Num_Of_BIDS_Won": 0,
+    "counter": ""
+}
+
+
+var a = {
+    "Channel_ID": 2,
+    "Campaign_ID": 302,
+    "Campaign_Name": "Avira System Speedup",
+    "BID_Value": 0.001,
+    "Redirect_URL": "http://www.mb103.com/lnk.asp?o=8192&c=918271&a=191204",
+    "Max_Num_Of_BIDs": 5000,
+    "Bid_URL": "http://rtb.dans-leads.com/tracking?Campaign_ID=@@Campaign_ID@@&BID_ID=@@BID_ID@@",
+    "Filter_GEO": "(fr|us|ca)",
+    "Filter_URLs": "()",
     "Filter_KeyWords": "()",
     "Filter_Function": "",
     "Num_Of_BIDs_Sent": 0,
