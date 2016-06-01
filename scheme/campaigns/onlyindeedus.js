@@ -15,6 +15,23 @@ var a = {
     "counter": ""
 }
 
+var a = {
+    "Channel_ID": 2,
+    "Campaign_ID": 230,
+    "Campaign_Name": "dansleads-us",
+    "BID_Value": 0.001,
+    "Redirect_URL": "http://dans-leads.com/?tid=bestJobs&geo=de&l=berlin",
+    "Max_Num_Of_BIDs": 5000,
+    "Bid_URL": "http://rtb.dans-leads.com/tracking?Campaign_ID=@@Campaign_ID@@&BID_ID=@@BID_ID@@",
+    "Filter_GEO": "(de)",
+    "Filter_URLs": "()",
+    "Filter_KeyWords": "()",
+    "Filter_Function": "jobsPredict",
+    "Num_Of_BIDs_Sent": 0,
+    "Num_Of_BIDS_Won": 0,
+    "counter": ""
+}
+
 
 var a = {
     "Channel_ID": 2,
@@ -107,7 +124,25 @@ var a = {
 }
 
 
-var a= {
+var a = {
+    "Channel_ID": 2,
+    "Campaign_ID": 225,
+    "Campaign_Name": "loto-fr",
+    "BID_Value": 0.003,
+    "Redirect_URL": "http://www.mb38.com/lnk.asp?o=7939&c=918271&a=191204&l=6651",
+    "Max_Num_Of_BIDs": 5000,
+    "Bid_URL": "http://rtb.dans-leads.com/tracking?Campaign_ID=@@Campaign_ID@@&BID_ID=@@BID_ID@@",
+    "Filter_GEO": "(fr)",
+    "Filter_URLs": "()",
+    "Filter_KeyWords": "(loto)",
+    "Filter_Function": "",
+    "Num_Of_BIDs_Sent": 0,
+    "Num_Of_BIDS_Won": 0,
+    "counter": ""
+}
+
+
+var a = {
     "Channel_ID": 2,
     "Campaign_ID": 225,
     "Campaign_Name": "indeed-us",
@@ -123,4 +158,23 @@ var a= {
     "Num_Of_BIDS_Won": 0,
     "counter": "",
     "BuyingList": "jobseekers"
+}
+
+
+
+var a = {
+    "Channel_ID": 2,
+    "Campaign_ID": 231,
+    "Campaign_Name": "maya-il",
+    "BID_Value": 0.001,
+    "Redirect_URL": "http://www.stampready.net/dashboard/online/index.php?id=93624",
+    "Max_Num_Of_BIDs": 25000,
+    "Bid_URL": "http://rtb.dans-leads.com/tracking?Campaign_ID=@@Campaign_ID@@&BID_ID=@@BID_ID@@",
+    "Filter_GEO": "(il)",
+    "Filter_URLs": "()",
+    "Filter_KeyWords": "()",
+    "Filter_Function": "",
+    "Num_Of_BIDs_Sent": 0,
+    "Num_Of_BIDS_Won": 0,
+    "counter": ""
 }
