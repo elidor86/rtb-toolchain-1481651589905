@@ -193,3 +193,20 @@ var a = {
     "Num_Of_BIDS_Won": 0,
     "counter": ""
 }
+
+var a = {
+    "Channel_ID": 2,
+    "Campaign_ID": 233,
+    "Campaign_Name": "Jailbreak-us",
+    "BID_Value": 0.006,
+    "Redirect_URL": "https://fastfilez.com/9obx",
+    "Max_Num_Of_BIDs": 15000,
+    "Bid_URL": "http://rtb.dans-leads.com/tracking?Campaign_ID=@@Campaign_ID@@&BID_ID=@@BID_ID@@",
+    "Filter_GEO": "(us)",
+    "Filter_URLs": "()",
+    "Filter_KeyWords": "(jailbreak)",
+    "Filter_Function": "",
+    "Num_Of_BIDs_Sent": 0,
+    "Num_Of_BIDS_Won": 0,
+    "counter": ""
+}
