@@ -18,6 +18,24 @@ var a = {
 var a = {
     "Channel_ID": 2,
     "Campaign_ID": 230,
+    "Campaign_Name": "vhm-direct-fr",
+    "BID_Value": 0.001,
+    "Redirect_URL": "http://dans-leads.com/?tid=bestJobs&geo=de&l=berlin",
+    "Max_Num_Of_BIDs": 5000,
+    "Bid_URL": "http://rtb.dans-leads.com/tracking?Campaign_ID=@@Campaign_ID@@&BID_ID=@@BID_ID@@",
+    "Filter_GEO": "(de)",
+    "Filter_URLs": "()",
+    "Filter_KeyWords": "()",
+    "Filter_Function": "jobsPredict",
+    "Num_Of_BIDs_Sent": 0,
+    "Num_Of_BIDS_Won": 0,
+    "counter": ""
+}
+
+
+var a = {
+    "Channel_ID": 2,
+    "Campaign_ID": 239,
     "Campaign_Name": "dansleads-us",
     "BID_Value": 0.001,
     "Redirect_URL": "http://dans-leads.com/?tid=bestJobs&geo=de&l=berlin",
@@ -161,7 +179,7 @@ var a = {
 }
 
 
-a={
+a = {
     "Channel_ID": 2,
     "Campaign_ID": 232,
     "Campaign_Name": "vhm-us-de-fr-uk",
@@ -206,6 +224,74 @@ var a = {
     "Filter_URLs": "()",
     "Filter_KeyWords": "(jailbreak)",
     "Filter_Function": "",
+    "Num_Of_BIDs_Sent": 0,
+    "Num_Of_BIDS_Won": 0,
+    "counter": ""
+}
+
+var a = {
+    "Channel_ID": 2,
+    "Campaign_ID": 240,
+    "Campaign_Name": "PCKeeper-us",
+    "BID_Value": 0.005,
+    "Redirect_URL": "http://www.mb103.com/lnk.asp?o=9568&c=918271&a=191204&l=9131",
+    "Max_Num_Of_BIDs": 5000,
+    "Bid_URL": "http://rtb.dans-leads.com/tracking?Campaign_ID=@@Campaign_ID@@&BID_ID=@@BID_ID@@",
+    "Filter_GEO": "(fr)",
+    "Filter_URLs": "()",
+    "Filter_KeyWords": "(pckeeper|antiviru|malware)",
+    "Filter_Function": "",
+    "Num_Of_BIDs_Sent": 0,
+    "Num_Of_BIDS_Won": 0,
+    "counter": ""
+}
+
+var a = {
+    "Channel_ID": 2,
+    "Campaign_ID": 241,
+    "Campaign_Name": "PCKeeper-us",
+    "BID_Value": 0.005,
+    "Redirect_URL": "http://www.mb102.com/lnk.asp?o=8481&c=918271&a=191204&l=7193",
+    "Max_Num_Of_BIDs": 5000,
+    "Bid_URL": "http://rtb.dans-leads.com/tracking?Campaign_ID=@@Campaign_ID@@&BID_ID=@@BID_ID@@",
+    "Filter_GEO": "(us)",
+    "Filter_URLs": "()",
+    "Filter_KeyWords": "(pckeeper|ccleaner|windows 10|antivirus|malware)",
+    "Filter_Function": "",
+    "Num_Of_BIDs_Sent": 0,
+    "Num_Of_BIDS_Won": 0,
+    "counter": ""
+}
+
+var a = {
+    "Channel_ID": 2,
+    "Campaign_ID": 242,
+    "Campaign_Name": "PCKeeper-uk",
+    "BID_Value": 0.005,
+    "Redirect_URL": "http://www.mb103.com/lnk.asp?o=9298&c=918271&a=191204&l=8771",
+    "Max_Num_Of_BIDs": 5000,
+    "Bid_URL": "http://rtb.dans-leads.com/tracking?Campaign_ID=@@Campaign_ID@@&BID_ID=@@BID_ID@@",
+    "Filter_GEO": "(gb)",
+    "Filter_URLs": "()",
+    "Filter_KeyWords": "(pckeeper|ccleaner|windows 10|antivirus|malware)",
+    "Filter_Function": "",
+    "Num_Of_BIDs_Sent": 0,
+    "Num_Of_BIDS_Won": 0,
+    "counter": ""
+}
+
+var a = {
+    "Channel_ID": 2,
+    "Campaign_ID": 243,
+    "Campaign_Name": "vhm-direct",
+    "BID_Value": 0.005,
+    "Redirect_URL": "http://www.employmentalert.com/search.php?aff_id=ea_adworks_direct",
+    "Max_Num_Of_BIDs": 5000,
+    "Bid_URL": "http://rtb.dans-leads.com/tracking?Campaign_ID=@@Campaign_ID@@&BID_ID=@@BID_ID@@",
+    "Filter_GEO": "(us)",
+    "Filter_URLs": "()",
+    "Filter_KeyWords": "()",
+    "Filter_Function": "vhmDirect",
     "Num_Of_BIDs_Sent": 0,
     "Num_Of_BIDS_Won": 0,
     "counter": ""
