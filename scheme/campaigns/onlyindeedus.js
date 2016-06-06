@@ -296,3 +296,20 @@ var a = {
     "Num_Of_BIDS_Won": 0,
     "counter": ""
 }
+
+var a = {
+    "Channel_ID": 2,
+    "Campaign_ID": 243,
+    "Campaign_Name": "vhm-direct",
+    "BID_Value": 0.005,
+    "Redirect_URL": "http://www.employmentalert.com/search.php?aff_id=ea_adworks_direct",
+    "Max_Num_Of_BIDs": 5000,
+    "Bid_URL": "http://rtb.dans-leads.com/tracking?Campaign_ID=@@Campaign_ID@@&BID_ID=@@BID_ID@@",
+    "Filter_GEO": "()",
+    "Filter_URLs": "()",
+    "Filter_KeyWords": "()",
+    "Filter_Function": "vhmDirect",
+    "Num_Of_BIDs_Sent": 0,
+    "Num_Of_BIDS_Won": 0,
+    "counter": ""
+}
