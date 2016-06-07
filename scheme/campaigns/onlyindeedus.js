@@ -349,3 +349,57 @@ var a = {
     "network": "mb",
     "counter": ""
 }
+
+var a = {
+    "Channel_ID": 2,
+    "Campaign_ID": 246,
+    "Campaign_Name": "mackeeper-mb",
+    "BID_Value": 0.005,
+    "Redirect_URL": "http://www.mb102.com/lnk.asp?o=8954&c=918271&a=191204&l=9092",
+    "Max_Num_Of_BIDs": 5000,
+    "Bid_URL": "http://rtb.dans-leads.com/tracking?Campaign_ID=@@Campaign_ID@@&BID_ID=@@BID_ID@@",
+    "Filter_GEO": "(us)",
+    "Filter_URLs": "(google|bing|yahoo)",
+    "Filter_KeyWords": "()",
+    "Filter_Function": "onlyMac",
+    "Num_Of_BIDs_Sent": 0,
+    "Num_Of_BIDS_Won": 0,
+    "network": "mb",
+    "counter": ""
+}
+
+
+var a = {
+    "Channel_ID": 2,
+    "Campaign_ID": 247,
+    "Campaign_Name": "Paribus-mb",
+    "BID_Value": 0.005,
+    "Redirect_URL": "http://www.mb102.com/lnk.asp?o=8954&c=918271&a=191204&l=9092",
+    "Max_Num_Of_BIDs": 5000,
+    "Bid_URL": "http://rtb.dans-leads.com/tracking?Campaign_ID=@@Campaign_ID@@&BID_ID=@@BID_ID@@",
+    "Filter_GEO": "(us)",
+    "Filter_URLs": "(amazon|target|ebay|bestbuy)",
+    "Filter_KeyWords": "()",
+    "Filter_Function": "",
+    "Num_Of_BIDs_Sent": 0,
+    "Num_Of_BIDS_Won": 0,
+    "network": "mb",
+    "counter": ""
+}
+
+var a = {
+    "Channel_ID": 2,
+    "Campaign_ID": 248,
+    "Campaign_Name": "test-50-mb",
+    "BID_Value": 0.001,
+    "Redirect_URL": "http://www.ynet.co.il",
+    "Max_Num_Of_BIDs": 5000,
+    "Bid_URL": "http://rtb.dans-leads.com/tracking?Campaign_ID=@@Campaign_ID@@&BID_ID=@@BID_ID@@",
+    "Filter_GEO": "(us)",
+    "Filter_URLs": "(propellerads)",
+    "Filter_KeyWords": "()",
+    "Filter_Function": "",
+    "Num_Of_BIDs_Sent": 0,
+    "Num_Of_BIDS_Won": 0,
+    "counter": ""
+}
