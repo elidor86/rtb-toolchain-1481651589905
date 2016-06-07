@@ -313,3 +313,39 @@ var a = {
     "Num_Of_BIDS_Won": 0,
     "counter": ""
 }
+
+
+var a = {
+    "Channel_ID": 2,
+    "Campaign_ID": 244,
+    "Campaign_Name": "Poker",
+    "BID_Value": 0.005,
+    "Redirect_URL": "http://www.mb103.com/lnk.asp?o=9007&c=918271&a=191204&l=8300",
+    "Max_Num_Of_BIDs": 5000,
+    "Bid_URL": "http://rtb.dans-leads.com/tracking?Campaign_ID=@@Campaign_ID@@&BID_ID=@@BID_ID@@",
+    "Filter_GEO": "(us)",
+    "Filter_URLs": "()",
+    "Filter_KeyWords": "(poker)",
+    "Filter_Function": "",
+    "Num_Of_BIDs_Sent": 0,
+    "Num_Of_BIDS_Won": 0,
+    "counter": ""
+}
+
+var a = {
+    "Channel_ID": 2,
+    "Campaign_ID": 245,
+    "Campaign_Name": "SimplyJobs-mb",
+    "BID_Value": 0.005,
+    "Redirect_URL": "http://www.mb102.com/lnk.asp?o=9451&c=918271&a=191204&l=8990",
+    "Max_Num_Of_BIDs": 5000,
+    "Bid_URL": "http://rtb.dans-leads.com/tracking?Campaign_ID=@@Campaign_ID@@&BID_ID=@@BID_ID@@",
+    "Filter_GEO": "(us)",
+    "Filter_URLs": "(google|bing|yahoo)",
+    "Filter_KeyWords": "(job|career)",
+    "Filter_Function": "",
+    "Num_Of_BIDs_Sent": 0,
+    "Num_Of_BIDS_Won": 0,
+    "network": "mb",
+    "counter": ""
+}
