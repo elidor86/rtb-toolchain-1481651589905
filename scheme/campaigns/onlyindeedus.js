@@ -404,3 +404,40 @@ var a = {
     "counter": "",
     "network": "mb"
 }
+
+var a ={
+    "Channel_ID": 24,
+    "Campaign_ID": 251,
+    "Campaign_Name": "PCKeeper-uk-au",
+    "BID_Value": 0.01,
+    "Redirect_URL": "http://www.mb102.com/lnk.asp?o=8482&c=918271&a=191204&l=7194",
+    "Max_Num_Of_BIDs": 50000,
+    "Bid_URL": "http://rtb.dans-leads.com/tracking?Campaign_ID=@@Campaign_ID@@&BID_ID=@@BID_ID@@",
+    "Filter_GEO": "(gb|au)",
+    "Filter_URLs": "()",
+    "Filter_KeyWords": "(pckeeper|pc cleaner|ccleaner|anti virus|sparktrustpc|windows 10|\\bavast\\b|avast 2016|télécharger avast|antivirus|spyware|popup|virus removal|internet security|\\bnorton\\b|computer protection|pc security|pcmatic|panda security|\\bkaspersky\\b|\\beset\\b|malware)",
+    "Filter_Function": "",
+    "Num_Of_BIDs_Sent": 0,
+    "Num_Of_BIDS_Won": 0,
+    "publishers":"24",
+    "counter": "",
+    "network": "mb"
+}
+var a ={
+    "Channel_ID": 24,
+    "Campaign_ID": 252,
+    "Campaign_Name": "PCKeeper-uk-au",
+    "BID_Value": 0.01,
+    "Redirect_URL": "http://www.mb102.com/lnk.asp?o=8482&c=918271&a=191204&l=7194",
+    "Max_Num_Of_BIDs": 10,
+    "Bid_URL": "http://rtb.dans-leads.com/tracking?Campaign_ID=@@Campaign_ID@@&BID_ID=@@BID_ID@@",
+    "Filter_GEO": "()",
+    "Filter_URLs": "()",
+    "Filter_KeyWords": "",
+    "Filter_Function": "",
+    "Num_Of_BIDs_Sent": 0,
+    "Num_Of_BIDS_Won": 0,
+    "publishers":"24",
+    "counter": "",
+    "network": "mb"
+}
