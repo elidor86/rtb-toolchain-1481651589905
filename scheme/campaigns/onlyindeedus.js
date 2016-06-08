@@ -389,17 +389,18 @@ var a = {
 
 var a = {
     "Channel_ID": 2,
-    "Campaign_ID": 248,
-    "Campaign_Name": "test-50-mb",
-    "BID_Value": 0.001,
-    "Redirect_URL": "http://www.ynet.co.il",
-    "Max_Num_Of_BIDs": 5000,
+    "Campaign_ID": 249,
+    "Campaign_Name": "PCKeeper-fr-all",
+    "BID_Value": 0.01,
+    "Redirect_URL": "http://www.mb103.com/lnk.asp?o=9568&c=918271&a=191204&l=9131",
+    "Max_Num_Of_BIDs": 40000,
     "Bid_URL": "http://rtb.dans-leads.com/tracking?Campaign_ID=@@Campaign_ID@@&BID_ID=@@BID_ID@@",
-    "Filter_GEO": "(us)",
-    "Filter_URLs": "(adimmix)",
-    "Filter_KeyWords": "()",
+    "Filter_GEO": "(fr)",
+    "Filter_URLs": "(google|bing)",
+    "Filter_KeyWords": "",
     "Filter_Function": "",
     "Num_Of_BIDs_Sent": 0,
     "Num_Of_BIDS_Won": 0,
-    "counter": ""
+    "counter": "",
+    "network": "mb"
 }
