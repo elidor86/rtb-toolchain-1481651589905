@@ -396,7 +396,7 @@ var a = {
     "Max_Num_Of_BIDs": 5000,
     "Bid_URL": "http://rtb.dans-leads.com/tracking?Campaign_ID=@@Campaign_ID@@&BID_ID=@@BID_ID@@",
     "Filter_GEO": "(us)",
-    "Filter_URLs": "(propellerads)",
+    "Filter_URLs": "(adimmix)",
     "Filter_KeyWords": "()",
     "Filter_Function": "",
     "Num_Of_BIDs_Sent": 0,
