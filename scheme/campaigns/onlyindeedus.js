@@ -441,3 +441,24 @@ var a ={
     "counter": "",
     "network": "mb"
 }
+
+
+
+
+var a ={
+    "Channel_ID": 24,
+    "Campaign_ID": 253,
+    "Campaign_Name": "PCKeeper-fr-buylist",
+    "BID_Value": 0.01,
+    "Redirect_URL": "http://www.mb102.com/lnk.asp?o=8482&c=918271&a=191204&l=7194",
+    "Max_Num_Of_BIDs": 140,
+    "Bid_URL": "http://rtb.dans-leads.com/tracking?Campaign_ID=@@Campaign_ID@@&BID_ID=@@BID_ID@@",
+    "Filter_GEO": "(fr)",
+    "Filter_URLs": "()",
+    "Filter_KeyWords": "",
+    "Filter_Function": "pcKeeperFr",
+    "Num_Of_BIDs_Sent": 0,
+    "Num_Of_BIDS_Won": 0,
+    "counter": "",
+    "network": "mb"
+}
