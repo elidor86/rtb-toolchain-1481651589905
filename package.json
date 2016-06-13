@@ -29,7 +29,7 @@
     "serve-favicon": "~2.3.0",
     "shortid": "^2.2.6",
     "tldjs": "^1.6.2",
-    "ua-parser": "^0.3.5",
+    "ua-parser-js": "^0.7.10",
     "underscore": "^1.8.3",
     "useragent": "^2.1.9",
     "winston": "^2.2.0",
