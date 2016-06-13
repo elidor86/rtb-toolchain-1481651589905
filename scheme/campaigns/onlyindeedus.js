@@ -558,3 +558,45 @@ var a ={
     "counter": "",
     "network": "mb"
 }
+
+
+
+
+
+var a ={
+    "Channel_ID": 2,
+    "Campaign_ID": 263,
+    "Campaign_Name": "mackeeper-tier-2",
+    "BID_Value": 0.005,
+    "Redirect_URL": "http://www.mb104.com/lnk.asp?o=5901&c=918271&a=191204&l=4614",
+    "Max_Num_Of_BIDs": 10000,
+    "Bid_URL": "http://rtb.dans-leads.com/tracking?Campaign_ID=@@Campaign_ID@@&BID_ID=@@BID_ID@@",
+    "Filter_GEO": "(fr|de|it|at|be|cz|dk|fi|hu|is)",
+    "Filter_URLs": "()",
+    "Filter_KeyWords": "()",
+    "Filter_Function": "macKeeper",
+    "Num_Of_BIDs_Sent": 0,
+    "Num_Of_BIDS_Won": 0,
+    "counter": "",
+    "network": "mb"
+}
+
+
+
+var a ={
+    "Channel_ID": 2,
+    "Campaign_ID": 264,
+    "Campaign_Name": "mackeeper-tier-1",
+    "BID_Value": 0.01,
+    "Redirect_URL": "http://www.mb102.com/lnk.asp?o=8954&c=918271&a=191204&l=9092",
+    "Max_Num_Of_BIDs": 10000,
+    "Bid_URL": "http://rtb.dans-leads.com/tracking?Campaign_ID=@@Campaign_ID@@&BID_ID=@@BID_ID@@",
+    "Filter_GEO": "(au|us|ca|gb|uk)",
+    "Filter_URLs": "()",
+    "Filter_KeyWords": "()",
+    "Filter_Function": "macKeeper",
+    "Num_Of_BIDs_Sent": 0,
+    "Num_Of_BIDS_Won": 0,
+    "counter": "",
+    "network": "mb"
+}
