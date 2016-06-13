@@ -447,16 +447,112 @@ var a ={
 
 var a ={
     "Channel_ID": 24,
-    "Campaign_ID": 253,
+    "Campaign_ID": 254,
     "Campaign_Name": "PCKeeper-fr-buylist",
     "BID_Value": 0.01,
-    "Redirect_URL": "http://www.mb102.com/lnk.asp?o=8482&c=918271&a=191204&l=7194",
-    "Max_Num_Of_BIDs": 140,
+    "Redirect_URL": "http://www.mb104.com/lnk.asp?o=5623&c=918271&a=191204&l=4354",
+    "Max_Num_Of_BIDs": 5000,
     "Bid_URL": "http://rtb.dans-leads.com/tracking?Campaign_ID=@@Campaign_ID@@&BID_ID=@@BID_ID@@",
-    "Filter_GEO": "(fr)",
+    "Filter_GEO": "(us)",
     "Filter_URLs": "()",
     "Filter_KeyWords": "",
-    "Filter_Function": "pcKeeperFr",
+    "Filter_Function": "jobsPredict",
+    "Num_Of_BIDs_Sent": 0,
+    "Num_Of_BIDS_Won": 0,
+    "counter": "",
+    "network": "mb"
+}
+
+
+var a ={
+    "Channel_ID": 24,
+    "Campaign_ID": 256,
+    "Campaign_Name": "free Household Samples",
+    "BID_Value": 0.01,
+    "Redirect_URL": "http://www.mb103.com/lnk.asp?o=9644&c=918271&a=191204&l=9218",
+    "Max_Num_Of_BIDs": 5000,
+    "Bid_URL": "http://rtb.dans-leads.com/tracking?Campaign_ID=@@Campaign_ID@@&BID_ID=@@BID_ID@@",
+    "Filter_GEO": "(us)",
+    "Filter_URLs": "(google)",
+    "Filter_KeyWords": "free",
+    "Filter_Function": "",
+    "Num_Of_BIDs_Sent": 0,
+    "Num_Of_BIDS_Won": 0,
+    "counter": "",
+    "network": "mb"
+}
+
+
+
+var a ={
+    "Channel_ID": 24,
+    "Campaign_ID": 257,
+    "Campaign_Name": "BookingBuddy_us",
+    "BID_Value": 0.02,
+    "Redirect_URL": "http://www.mb102.com/lnk.asp?o=9296&c=918271&a=191204&l=8954",
+    "Max_Num_Of_BIDs": 5000,
+    "Bid_URL": "http://rtb.dans-leads.com/tracking?Campaign_ID=@@Campaign_ID@@&BID_ID=@@BID_ID@@",
+    "Filter_GEO": "(us)",
+    "Filter_URLs": "(google)",
+    "Filter_KeyWords": "flights|hotel|vacation",
+    "Filter_Function": "",
+    "Num_Of_BIDs_Sent": 0,
+    "Num_Of_BIDS_Won": 0,
+    "counter": "",
+    "network": "mb"
+}
+
+
+var a ={
+    "Channel_ID": 24,
+    "Campaign_ID": 258,
+    "Campaign_Name": "Horizon_us",
+    "BID_Value": 0.02,
+    "Redirect_URL": "http://www.mb01.com/lnk.asp?o=2984&c=918271&a=191204&l=2296",
+    "Max_Num_Of_BIDs": 5000,
+    "Bid_URL": "http://rtb.dans-leads.com/tracking?Campaign_ID=@@Campaign_ID@@&BID_ID=@@BID_ID@@",
+    "Filter_GEO": "(us)",
+    "Filter_URLs": "()",
+    "Filter_KeyWords": "loan|payday|bad credit|bankruptcy",
+    "Filter_Function": "",
+    "Num_Of_BIDs_Sent": 0,
+    "Num_Of_BIDS_Won": 0,
+    "counter": "",
+    "network": "mb"
+}
+
+
+var a ={
+    "Channel_ID": 2,
+    "Campaign_ID": 241,
+    "Campaign_Name": "PCKeeper-us",
+    "BID_Value": 0.01,
+    "Redirect_URL": "http://www.mb102.com/lnk.asp?o=8481&c=918271&a=191204&l=7193",
+    "Max_Num_Of_BIDs": 50000,
+    "Bid_URL": "http://rtb.dans-leads.com/tracking?Campaign_ID=@@Campaign_ID@@&BID_ID=@@BID_ID@@",
+    "Filter_GEO": "(us)",
+    "Filter_URLs": "()",
+    "Filter_KeyWords": "(pckeeper|pc cleaner|ccleaner|anti virus|sparktrustpc|\\bavast\\b|antivirus|spyware|virus removal|malware)",
+    "Filter_Function": "",
+    "Num_Of_BIDs_Sent": 45076,
+    "Num_Of_BIDS_Won": 2781,
+    "counter": "",
+    "network": "mb"
+}
+
+
+var a ={
+    "Channel_ID": 2,
+    "Campaign_ID": 261,
+    "Campaign_Name": "SurveyWorld-us",
+    "BID_Value": 0.002,
+    "Redirect_URL": "http://www.mb104.com/lnk.asp?o=5901&c=918271&a=191204&l=4614",
+    "Max_Num_Of_BIDs": 50000,
+    "Bid_URL": "http://rtb.dans-leads.com/tracking?Campaign_ID=@@Campaign_ID@@&BID_ID=@@BID_ID@@",
+    "Filter_GEO": "(ar)",
+    "Filter_URLs": "()",
+    "Filter_KeyWords": "()",
+    "Filter_Function": "",
     "Num_Of_BIDs_Sent": 0,
     "Num_Of_BIDS_Won": 0,
     "counter": "",
