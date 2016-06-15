@@ -600,3 +600,41 @@ var a ={
     "counter": "",
     "network": "mb"
 }
+
+
+
+var a ={
+    "Channel_ID": 2,
+    "Campaign_ID": 265,
+    "Campaign_Name": "mackeeper-tier-3",
+    "BID_Value": 0.001,
+    "Redirect_URL": "http://www.mb102.com/lnk.asp?o=9139&c=918271&a=191204&l=9094",
+    "Max_Num_Of_BIDs": 10000,
+    "Bid_URL": "http://rtb.dans-leads.com/tracking?Campaign_ID=@@Campaign_ID@@&BID_ID=@@BID_ID@@",
+    "Filter_GEO": "(jp|eg|nl|sa|ma|il|ae|es)",
+    "Filter_URLs": "()",
+    "Filter_KeyWords": "()",
+    "Filter_Function": "macKeeper",
+    "Num_Of_BIDs_Sent": 0,
+    "Num_Of_BIDS_Won": 0,
+    "counter": "",
+    "network": "mb"
+}
+
+
+
+var a ={
+    "Channel_ID": 2,
+    "Campaign_ID": 266,
+    "Campaign_Name": "adcash",
+    "BID_Value": 0.001,
+    "Redirect_URL": "http://www.tradeadexchange.com/a/display.php?r=1297269",
+    "Max_Num_Of_BIDs": 2000,
+    "Bid_URL": "http://rtb.dans-leads.com/tracking?Campaign_ID=@@Campaign_ID@@&BID_ID=@@BID_ID@@",
+    "Filter_GEO": "(jp|eg|nl|sa|ma|il|ae|es|fr|de|us)",
+    "Filter_URLs": "(google)",
+    "Filter_KeyWords": "()",
+    "Filter_Function": "",
+    "Num_Of_BIDs_Sent": 0,
+    "Num_Of_BIDS_Won": 0
+}
