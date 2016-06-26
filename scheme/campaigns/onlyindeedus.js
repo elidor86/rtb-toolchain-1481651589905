@@ -638,3 +638,265 @@ var a ={
     "Num_Of_BIDs_Sent": 0,
     "Num_Of_BIDS_Won": 0
 }
+
+
+
+
+var a ={
+    "Channel_ID": 24,
+    "Campaign_ID": 267,
+    "Campaign_Name": "jobSeekersExchangeNetworks-us-ca",
+    "BID_Value": 0.02,
+    "Redirect_URL": "https://target-talent.com/campaigns/jobs/suggest?ch=C267&provider=2",
+    "Max_Num_Of_BIDs": 10000,
+    "Bid_URL": "http://rtb.dans-leads.com/tracking?Campaign_ID=@@Campaign_ID@@&BID_ID=@@BID_ID@@",
+    "Filter_GEO": "(us|ca)",
+    "Filter_URLs": "()",
+    "publishers": "24",
+    "Filter_KeyWords": "",
+    "Filter_Function": "jobSeekersExchangeNetworks",
+    "Num_Of_BIDs_Sent": 0,
+    "Num_Of_BIDS_Won": 0
+}
+
+
+
+
+var a ={
+    "Channel_ID": 2,
+    "Campaign_ID": 268,
+    "Campaign_Name": "Dark_Era",
+    "BID_Value": 0.008,
+    "Redirect_URL": "http://www.mb01.com/lnk.asp?o=9654&c=918271&a=191204&l=9230",
+    "Max_Num_Of_BIDs": 10000,
+    "Bid_URL": "http://rtb.dans-leads.com/tracking?Campaign_ID=@@Campaign_ID@@&BID_ID=@@BID_ID@@",
+    "Filter_GEO": "(us|ca|fr|gb|uk|de)",
+    "Filter_URLs": "()",
+    "Filter_KeyWords": "(\\bmmo\\b|\\bmmorpg\\b)",
+    "Filter_Function": "",
+    "Num_Of_BIDs_Sent": 0,
+    "Num_Of_BIDS_Won": 0,
+    "counter": "",
+    "network": "mb"
+}
+
+
+
+var a ={
+    "Channel_ID": 2,
+    "Campaign_ID": 269,
+    "Campaign_Name": "Dark_Era",
+    "BID_Value": 0.008,
+    "Redirect_URL": "http://www.mb01.com/lnk.asp?o=9654&c=918271&a=191204&l=9230",
+    "Max_Num_Of_BIDs": 5000,
+    "Bid_URL": "http://rtb.dans-leads.com/tracking?Campaign_ID=@@Campaign_ID@@&BID_ID=@@BID_ID@@",
+    "Filter_GEO": "(us|ca|uk|gb)",
+    "Filter_URLs": "()",
+    "Filter_KeyWords": "(?=.*lose)(?=.*weight).*",
+    "Filter_Function": "",
+    "Num_Of_BIDs_Sent": 0,
+    "Num_Of_BIDS_Won": 0,
+    "counter": "",
+    "network": "mb"
+}
+
+
+
+var a ={
+    "Channel_ID": 2,
+    "Campaign_ID": 270,
+    "Campaign_Name": "netloanexpress",
+    "BID_Value": 0.02,
+    "Redirect_URL": "http://www.mb103.com/lnk.asp?o=6153&c=918271&a=191204&l=4865",
+    "Max_Num_Of_BIDs": 5000,
+    "Bid_URL": "http://rtb.dans-leads.com/tracking?Campaign_ID=@@Campaign_ID@@&BID_ID=@@BID_ID@@",
+    "Filter_GEO": "(us)",
+    "Filter_URLs": "()",
+    "Filter_KeyWords": "loan,payday",
+    "Filter_Function": "",
+    "Num_Of_BIDs_Sent": 0,
+    "Num_Of_BIDS_Won": 0,
+    "counter": "",
+    "network": "mb"
+}
+
+
+
+var a ={
+    "Channel_ID": 2,
+    "Campaign_ID": 271,
+    "Campaign_Name": "car loan",
+    "BID_Value": 0.02,
+    "Redirect_URL": "http://www.mb102.com/lnk.asp?o=9081&c=918271&a=191204&l=8420",
+    "Max_Num_Of_BIDs": 5000,
+    "Bid_URL": "http://rtb.dans-leads.com/tracking?Campaign_ID=@@Campaign_ID@@&BID_ID=@@BID_ID@@",
+    "Filter_GEO": "(us)",
+    "Filter_URLs": "()",
+    "Filter_KeyWords": "(car loan|auto loan)",
+    "Filter_Function": "",
+    "Num_Of_BIDs_Sent": 0,
+    "Num_Of_BIDS_Won": 0,
+    "counter": "",
+    "network": "mb"
+}
+
+
+
+
+var a ={
+    "Channel_ID": 2,
+    "Campaign_ID": 272,
+    "Campaign_Name": "Horoscopes ",
+    "BID_Value": 0.005,
+    "Redirect_URL": "http://www.mb103.com/lnk.asp?o=8421&c=918271&a=191204&l=7133",
+    "Max_Num_Of_BIDs": 15000,
+    "Bid_URL": "http://rtb.dans-leads.com/tracking?Campaign_ID=@@Campaign_ID@@&BID_ID=@@BID_ID@@",
+    "Filter_GEO": "(es)",
+    "Filter_URLs": "()",
+    "Filter_KeyWords": "(horóscopo)",
+    "Filter_Function": "",
+    "Num_Of_BIDs_Sent": 0,
+    "Num_Of_BIDS_Won": 0,
+    "counter": "",
+    "network": "mb"
+}
+
+
+
+
+var a ={
+    "Channel_ID": 2,
+    "Campaign_ID": 273,
+    "Campaign_Name": "Divine Eats - Free Recipe",
+    "BID_Value": 0.01,
+    "Redirect_URL": "http://www.mb103.com/lnk.asp?o=8812&c=918271&a=191204&l=8043",
+    "Max_Num_Of_BIDs": 15000,
+    "Bid_URL": "http://rtb.dans-leads.com/tracking?Campaign_ID=@@Campaign_ID@@&BID_ID=@@BID_ID@@",
+    "Filter_GEO": "(us)",
+    "Filter_URLs": "()",
+    "Filter_KeyWords": "(recipe)",
+    "Filter_Function": "",
+    "Num_Of_BIDs_Sent": 0,
+    "Num_Of_BIDS_Won": 0,
+    "counter": "",
+    "network": "mb"
+}
+
+
+var a ={
+    "Channel_ID": 2,
+    "Campaign_ID": 274,
+    "Campaign_Name": "Grocery Coupon Network",
+    "BID_Value": 0.01,
+    "Redirect_URL": "http://www.mb103.com/lnk.asp?o=5917&c=918271&a=191204&l=4629",
+    "Max_Num_Of_BIDs": 15000,
+    "Bid_URL": "http://rtb.dans-leads.com/tracking?Campaign_ID=@@Campaign_ID@@&BID_ID=@@BID_ID@@",
+    "Filter_GEO": "(us)",
+    "Filter_URLs": "()",
+    "Filter_KeyWords": "(grocery)",
+    "Filter_Function": "",
+    "Num_Of_BIDs_Sent": 0,
+    "Num_Of_BIDS_Won": 0,
+    "counter": "",
+    "network": "mb"
+}
+
+
+
+
+var a ={
+    "Channel_ID": 2,
+    "Campaign_ID": 275,
+    "Campaign_Name": "indeed-es",
+    "BID_Value": 0.003,
+    "Redirect_URL": "https://target-talent.com/campaigns/jobs/suggest?ch=C275&provider=2",
+    "Max_Num_Of_BIDs": 15000,
+    "Bid_URL": "http://rtb.dans-leads.com/tracking?Campaign_ID=@@Campaign_ID@@&BID_ID=@@BID_ID@@",
+    "Filter_GEO": "(es)",
+    "Filter_URLs": "()",
+    "Filter_KeyWords": "()",
+    "Filter_Function": "jobsPredict",
+    "Num_Of_BIDs_Sent": 0,
+    "Num_Of_BIDS_Won": 0,
+    "sub_id": "C220",
+    "network": "indeed"
+}
+
+
+
+
+var a ={
+    "Channel_ID": 2,
+    "Campaign_ID": 276,
+    "Campaign_Name": "tt-all",
+    "BID_Value": 0.003,
+    "Redirect_URL": "http://best-jobs.ngrok.io/",
+    "Max_Num_Of_BIDs": 15000,
+    "Bid_URL": "http://rtb.dans-leads.com/tracking?Campaign_ID=@@Campaign_ID@@&BID_ID=@@BID_ID@@",
+    "Filter_GEO": "(es|us|fr|de|au|ca)",
+    "Filter_URLs": "()",
+    "Filter_KeyWords": "()",
+    "Filter_Function": "jobsPredict",
+    "Num_Of_BIDs_Sent": 0,
+    "Num_Of_BIDS_Won": 0
+}
+
+
+
+
+var a ={
+    "Channel_ID": 2,
+    "Campaign_ID": 277,
+    "Campaign_Name": "The Millionaire in PJs - Tier 2",
+    "BID_Value": 0.006,
+    "Redirect_URL": "http://www.mb38.com/lnk.asp?o=7359&c=918271&a=191204&l=6071",
+    "Max_Num_Of_BIDs": 15000,
+    "Bid_URL": "http://rtb.dans-leads.com/tracking?Campaign_ID=@@Campaign_ID@@&BID_ID=@@BID_ID@@",
+    "Filter_GEO": "(ca|de|it)",
+    "Filter_URLs": "()",
+    "Filter_KeyWords": "()",
+    "Filter_Function": "jobsPredict",
+    "network": "mb",
+    "Num_Of_BIDs_Sent": 0,
+    "Num_Of_BIDS_Won": 0
+}
+
+
+
+
+var a ={
+    "Channel_ID": 2,
+    "Campaign_ID": 278,
+    "Campaign_Name": "The Millionaire in PJs - Tier 2 - make money",
+    "BID_Value": 0.006,
+    "Redirect_URL": "http://www.mb38.com/lnk.asp?o=7359&c=918271&a=191204&l=6071",
+    "Max_Num_Of_BIDs": 10000,
+    "Bid_URL": "http://rtb.dans-leads.com/tracking?Campaign_ID=@@Campaign_ID@@&BID_ID=@@BID_ID@@",
+    "Filter_GEO": "(ca|de|it)",
+    "Filter_URLs": "()",
+    "Filter_KeyWords": "(make money)",
+    "Filter_Function": "",
+    "network": "mb",
+    "Num_Of_BIDs_Sent": 0,
+    "Num_Of_BIDS_Won": 0
+}
+
+
+
+var a ={
+    "Channel_ID": 2,
+    "Campaign_ID": 278,
+    "Campaign_Name": "The Millionaire in PJs - Tier 2 - make money -fr-gb",
+    "BID_Value": 0.006,
+    "Redirect_URL": "http://www.mb104.com/lnk.asp?o=7360&c=918271&a=191204&l=6072",
+    "Max_Num_Of_BIDs": 10000,
+    "Bid_URL": "http://rtb.dans-leads.com/tracking?Campaign_ID=@@Campaign_ID@@&BID_ID=@@BID_ID@@",
+    "Filter_GEO": "(fr|gb|uk|au)",
+    "Filter_URLs": "()",
+    "Filter_KeyWords": "(make money)",
+    "Filter_Function": "",
+    "network": "mb",
+    "Num_Of_BIDs_Sent": 0,
+    "Num_Of_BIDS_Won": 0
+}
+
