@@ -900,3 +900,23 @@ var a ={
     "Num_Of_BIDS_Won": 0
 }
 
+
+
+
+var a ={
+    "Channel_ID": 2,
+    "Campaign_ID": 280,
+    "Campaign_Name": "The Millionaire in PJs - Tier 5 - il",
+    "BID_Value": 0.006,
+    "Redirect_URL": "http://www.mb103.com/lnk.asp?o=9074&c=918271&a=191204&l=8802",
+    "Max_Num_Of_BIDs": 10000,
+    "Bid_URL": "http://rtb.dans-leads.com/tracking?Campaign_ID=@@Campaign_ID@@&BID_ID=@@BID_ID@@",
+    "Filter_GEO": "(il)",
+    "Filter_URLs": "()",
+    "Filter_KeyWords": "()",
+    "Filter_Function": "",
+    "network": "mb",
+    "Num_Of_BIDs_Sent": 0,
+    "Num_Of_BIDS_Won": 0
+}
+
