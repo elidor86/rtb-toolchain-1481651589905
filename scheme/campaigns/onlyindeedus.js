@@ -920,3 +920,63 @@ var a ={
     "Num_Of_BIDS_Won": 0
 }
 
+
+
+
+
+var a ={
+    "Channel_ID": 2,
+    "Campaign_ID": 284,
+    "Campaign_Name": "slitherio",
+    "BID_Value": 0.001,
+    "Redirect_URL": "https://goodlinkss.com/9BGq",
+    "Max_Num_Of_BIDs": 10000,
+    "Bid_URL": "http://rtb.dans-leads.com/tracking?Campaign_ID=@@Campaign_ID@@&BID_ID=@@BID_ID@@",
+    "Filter_GEO": "()",
+    "Filter_URLs": "()",
+    "Filter_KeyWords": "(slitherio|slither)",
+    "Filter_Function": "",
+    "Num_Of_BIDs_Sent": 0,
+    "Num_Of_BIDS_Won": 0
+}
+
+
+
+
+
+
+var a ={
+    "Channel_ID": 2,
+    "Campaign_ID": 285,
+    "Campaign_Name": "goliver",
+    "BID_Value": 0.001,
+    "Redirect_URL": "http://www.gulliver.co.il/DomHotels/Content/Main.aspx?Affiliate=wesell&utm_source=wesell&utm_medium=link&utm_campaign=wesell_DomHotels&wsid=zrrhtucWhHjlKYZ_nSJEFxMHKgSSyEk_TszrrhtucWhHjlKYZtS",
+    "Max_Num_Of_BIDs": 10000,
+    "Bid_URL": "http://rtb.dans-leads.com/tracking?Campaign_ID=@@Campaign_ID@@&BID_ID=@@BID_ID@@",
+    "Filter_GEO": "(il)",
+    "Filter_URLs": "()",
+    "Filter_KeyWords": "(בתי מלון|בית מלון|חופשה|מלונות|)",
+    "Filter_Function": "",
+    "Num_Of_BIDs_Sent": 0,
+    "Num_Of_BIDS_Won": 0
+}
+
+
+
+
+var a ={
+    "Channel_ID": 2,
+    "Campaign_ID": 286,
+    "Campaign_Name": "goliver-טיסות",
+    "BID_Value": 0.001,
+    "Redirect_URL": "http://www.gulliver.co.il/Flights/content/Main.aspx?Affiliate=WESELL&utm_source=WESELL&utm_medium=link&utm_30/40/50_baner_sadir=WESELL_Flightdeals&wsid=zrrhtucWhHjlKYZ_d0erPtrxqR7V6yn_TszrrhtucWhHjlKYZtS",
+    "Max_Num_Of_BIDs": 10000,
+    "Bid_URL": "http://rtb.dans-leads.com/tracking?Campaign_ID=@@Campaign_ID@@&BID_ID=@@BID_ID@@",
+    "Filter_GEO": "(il)",
+    "Filter_URLs": "()",
+    "Filter_KeyWords": "(טיסות)",
+    "Filter_Function": "",
+    "Num_Of_BIDs_Sent": 0,
+    "Num_Of_BIDS_Won": 0
+}
+
