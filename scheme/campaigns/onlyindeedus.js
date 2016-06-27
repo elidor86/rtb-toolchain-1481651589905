@@ -980,3 +980,21 @@ var a ={
     "Num_Of_BIDS_Won": 0
 }
 
+
+
+
+var a ={
+    "Channel_ID": 2,
+    "Campaign_ID": 288,
+    "Campaign_Name": "travelmediadirect",
+    "BID_Value": 0.001,
+    "Max_Num_Of_BIDs": 10000,
+    "Bid_URL": "http://rtb.dans-leads.com/tracking?Campaign_ID=@@Campaign_ID@@&BID_ID=@@BID_ID@@",
+    "Filter_GEO": "(us)",
+    "Filter_URLs": "()",
+    "Filter_KeyWords": "()",
+    "Filter_Function": "travelmediadirect",
+    "Num_Of_BIDs_Sent": 0,
+    "Num_Of_BIDS_Won": 0
+}
+
