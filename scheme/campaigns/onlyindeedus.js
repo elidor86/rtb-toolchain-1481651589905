@@ -985,15 +985,94 @@ var a ={
 
 var a ={
     "Channel_ID": 2,
-    "Campaign_ID": 288,
-    "Campaign_Name": "travelmediadirect",
+    "Campaign_ID": 289,
+    "Campaign_Name": "Tracking code for The Millionaire in PJs - Tier 4-arab",
     "BID_Value": 0.001,
+    "Redirect_URL": "http://www.mb104.com/lnk.asp?o=7726&c=918271&a=191204&l=8798",
     "Max_Num_Of_BIDs": 10000,
     "Bid_URL": "http://rtb.dans-leads.com/tracking?Campaign_ID=@@Campaign_ID@@&BID_ID=@@BID_ID@@",
     "Filter_GEO": "(us)",
     "Filter_URLs": "()",
     "Filter_KeyWords": "()",
     "Filter_Function": "travelmediadirect",
+    "Num_Of_BIDs_Sent": 0,
+    "Num_Of_BIDS_Won": 0
+}
+
+
+
+
+
+var a ={
+    "Channel_ID": 2,
+    "Campaign_ID": 289,
+    "Campaign_Name": "Tracking code for The Millionaire in PJs - Tier 4-arab",
+    "BID_Value": 0.001,
+    "Max_Num_Of_BIDs": 10000,
+    "Redirect_URL": "http://www.mb104.com/lnk.asp?o=7726&c=918271&a=191204&l=8798",
+    "Bid_URL": "http://rtb.dans-leads.com/tracking?Campaign_ID=@@Campaign_ID@@&BID_ID=@@BID_ID@@",
+    "Filter_GEO": "(ae|sa|qa)",
+    "Filter_URLs": "()",
+    "Filter_KeyWords": "()",
+    "Filter_Function": "travelmediadirect",
+    "Num_Of_BIDs_Sent": 0,
+    "Num_Of_BIDS_Won": 0
+}
+
+
+
+
+
+var a ={
+    "Channel_ID": 2,
+    "Campaign_ID": 290,
+    "Campaign_Name": "GetMeATicket.co.uk - Win A Trip To New York",
+    "BID_Value": 0.001,
+    "Max_Num_Of_BIDs": 10000,
+    "Redirect_URL": "http://www.mb103.com/lnk.asp?o=9705&c=918271&a=191204&l=9330",
+    "Bid_URL": "http://rtb.dans-leads.com/tracking?Campaign_ID=@@Campaign_ID@@&BID_ID=@@BID_ID@@",
+    "Filter_GEO": "(gb|uk)",
+    "Filter_URLs": "(britishairways|hilton|hotels|delta|booking|flights|jetcost|bookingbuddy|hotwire)",
+    "Filter_KeyWords": "()",
+    "Filter_Function": "",
+    "Num_Of_BIDs_Sent": 0,
+    "Num_Of_BIDS_Won": 0
+}
+
+
+var a ={
+    "Channel_ID": 2,
+    "Campaign_ID": 291,
+    "Campaign_Name": "FreeStuff - Win £500 Amazon Gift Card",
+    "BID_Value": 0.001,
+    "Max_Num_Of_BIDs": 10000,
+    "Redirect_URL": "http://www.mb38.com/lnk.asp?o=9707&c=918271&a=191204&l=9328",
+    "Bid_URL": "http://rtb.dans-leads.com/tracking?Campaign_ID=@@Campaign_ID@@&BID_ID=@@BID_ID@@",
+    "Filter_GEO": "(gb|uk)",
+    "Filter_URLs": "(amazon|ebay)",
+    "Filter_KeyWords": "()",
+    "Filter_Function": "",
+    "Num_Of_BIDs_Sent": 0,
+    "Num_Of_BIDS_Won": 0
+}
+
+
+
+
+
+
+var a ={
+    "Channel_ID": 2,
+    "Campaign_ID": 292,
+    "Campaign_Name": "PickUpFlowers",
+    "BID_Value": 0.001,
+    "Max_Num_Of_BIDs": 10000,
+    "Redirect_URL": "http://www.mb103.com/lnk.asp?o=7907&c=918271&a=191204&l=9053",
+    "Bid_URL": "http://rtb.dans-leads.com/tracking?Campaign_ID=@@Campaign_ID@@&BID_ID=@@BID_ID@@",
+    "Filter_GEO": "()",
+    "Filter_URLs": "(1800flowers|italianflora|internationalflora|spediscifiori|graficflower|tabisa|fioristionline|wineflowers|floraqueen|bloomnation|bloomthat|fiftyflowers|justflowers|flowershopping|efiori|troysflorist|flowermuse|sendflowers|flowershopnetwork|proflowers|ciceksepeti|flaberry|interflora|fromyouflowers|teleflora|florajet|bebloom|fleurop|aquarelle|pocztakwiatowa|flowerdeliveryexpress|meillandrichardier|floraprima|interflora|heirloomroses)",
+    "Filter_KeyWords": "()",
+    "Filter_Function": "",
     "Num_Of_BIDs_Sent": 0,
     "Num_Of_BIDS_Won": 0
 }

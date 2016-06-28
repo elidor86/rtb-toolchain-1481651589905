@@ -11,6 +11,9 @@ var express = require('express');
 //var cookieParser = require('cookie-parser');
 //var bodyParser = require('body-parser');
 
+var travelReporting = require('./lib/travel-reporting');
+
+
 var routes = require('./routes/index');
 var tracking = require('./routes/tracking');
 var stats = require('./routes/stats');
