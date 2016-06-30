@@ -405,7 +405,7 @@ var a = {
     "network": "mb"
 }
 
-var a ={
+var a = {
     "Channel_ID": 24,
     "Campaign_ID": 251,
     "Campaign_Name": "PCKeeper-uk-au",
@@ -419,11 +419,11 @@ var a ={
     "Filter_Function": "",
     "Num_Of_BIDs_Sent": 0,
     "Num_Of_BIDS_Won": 0,
-    "publishers":"24",
+    "publishers": "24",
     "counter": "",
     "network": "mb"
 }
-var a ={
+var a = {
     "Channel_ID": 24,
     "Campaign_ID": 252,
     "Campaign_Name": "PCKeeper-uk-au",
@@ -437,15 +437,13 @@ var a ={
     "Filter_Function": "",
     "Num_Of_BIDs_Sent": 0,
     "Num_Of_BIDS_Won": 0,
-    "publishers":"24",
+    "publishers": "24",
     "counter": "",
     "network": "mb"
 }
 
 
-
-
-var a ={
+var a = {
     "Channel_ID": 24,
     "Campaign_ID": 254,
     "Campaign_Name": "PCKeeper-fr-buylist",
@@ -464,7 +462,7 @@ var a ={
 }
 
 
-var a ={
+var a = {
     "Channel_ID": 24,
     "Campaign_ID": 256,
     "Campaign_Name": "free Household Samples",
@@ -483,8 +481,7 @@ var a ={
 }
 
 
-
-var a ={
+var a = {
     "Channel_ID": 24,
     "Campaign_ID": 257,
     "Campaign_Name": "BookingBuddy_us",
@@ -503,7 +500,7 @@ var a ={
 }
 
 
-var a ={
+var a = {
     "Channel_ID": 24,
     "Campaign_ID": 258,
     "Campaign_Name": "Horizon_us",
@@ -522,7 +519,7 @@ var a ={
 }
 
 
-var a ={
+var a = {
     "Channel_ID": 2,
     "Campaign_ID": 241,
     "Campaign_Name": "PCKeeper-us",
@@ -541,7 +538,7 @@ var a ={
 }
 
 
-var a ={
+var a = {
     "Channel_ID": 2,
     "Campaign_ID": 261,
     "Campaign_Name": "SurveyWorld-us",
@@ -560,10 +557,7 @@ var a ={
 }
 
 
-
-
-
-var a ={
+var a = {
     "Channel_ID": 2,
     "Campaign_ID": 263,
     "Campaign_Name": "mackeeper-tier-2",
@@ -582,8 +576,7 @@ var a ={
 }
 
 
-
-var a ={
+var a = {
     "Channel_ID": 2,
     "Campaign_ID": 264,
     "Campaign_Name": "mackeeper-tier-1",
@@ -602,8 +595,7 @@ var a ={
 }
 
 
-
-var a ={
+var a = {
     "Channel_ID": 2,
     "Campaign_ID": 265,
     "Campaign_Name": "mackeeper-tier-3",
@@ -622,8 +614,7 @@ var a ={
 }
 
 
-
-var a ={
+var a = {
     "Channel_ID": 2,
     "Campaign_ID": 266,
     "Campaign_Name": "adcash",
@@ -640,9 +631,7 @@ var a ={
 }
 
 
-
-
-var a ={
+var a = {
     "Channel_ID": 24,
     "Campaign_ID": 267,
     "Campaign_Name": "jobSeekersExchangeNetworks-us-ca",
@@ -660,9 +649,7 @@ var a ={
 }
 
 
-
-
-var a ={
+var a = {
     "Channel_ID": 2,
     "Campaign_ID": 268,
     "Campaign_Name": "Dark_Era",
@@ -681,8 +668,7 @@ var a ={
 }
 
 
-
-var a ={
+var a = {
     "Channel_ID": 2,
     "Campaign_ID": 269,
     "Campaign_Name": "Dark_Era",
@@ -701,8 +687,7 @@ var a ={
 }
 
 
-
-var a ={
+var a = {
     "Channel_ID": 2,
     "Campaign_ID": 270,
     "Campaign_Name": "netloanexpress",
@@ -721,8 +706,7 @@ var a ={
 }
 
 
-
-var a ={
+var a = {
     "Channel_ID": 2,
     "Campaign_ID": 271,
     "Campaign_Name": "car loan",
@@ -741,9 +725,7 @@ var a ={
 }
 
 
-
-
-var a ={
+var a = {
     "Channel_ID": 2,
     "Campaign_ID": 272,
     "Campaign_Name": "Horoscopes ",
@@ -762,9 +744,7 @@ var a ={
 }
 
 
-
-
-var a ={
+var a = {
     "Channel_ID": 2,
     "Campaign_ID": 273,
     "Campaign_Name": "Divine Eats - Free Recipe",
@@ -783,7 +763,7 @@ var a ={
 }
 
 
-var a ={
+var a = {
     "Channel_ID": 2,
     "Campaign_ID": 274,
     "Campaign_Name": "Grocery Coupon Network",
@@ -802,9 +782,7 @@ var a ={
 }
 
 
-
-
-var a ={
+var a = {
     "Channel_ID": 2,
     "Campaign_ID": 275,
     "Campaign_Name": "indeed-es",
@@ -823,9 +801,7 @@ var a ={
 }
 
 
-
-
-var a ={
+var a = {
     "Channel_ID": 2,
     "Campaign_ID": 276,
     "Campaign_Name": "tt-all",
@@ -842,9 +818,7 @@ var a ={
 }
 
 
-
-
-var a ={
+var a = {
     "Channel_ID": 2,
     "Campaign_ID": 277,
     "Campaign_Name": "The Millionaire in PJs - Tier 2",
@@ -862,9 +836,7 @@ var a ={
 }
 
 
-
-
-var a ={
+var a = {
     "Channel_ID": 2,
     "Campaign_ID": 278,
     "Campaign_Name": "The Millionaire in PJs - Tier 2 - make money",
@@ -882,8 +854,7 @@ var a ={
 }
 
 
-
-var a ={
+var a = {
     "Channel_ID": 2,
     "Campaign_ID": 278,
     "Campaign_Name": "The Millionaire in PJs - Tier 2 - make money -fr-gb",
@@ -901,9 +872,7 @@ var a ={
 }
 
 
-
-
-var a ={
+var a = {
     "Channel_ID": 2,
     "Campaign_ID": 280,
     "Campaign_Name": "The Millionaire in PJs - Tier 5 - il",
@@ -921,10 +890,7 @@ var a ={
 }
 
 
-
-
-
-var a ={
+var a = {
     "Channel_ID": 2,
     "Campaign_ID": 284,
     "Campaign_Name": "slitherio",
@@ -941,11 +907,7 @@ var a ={
 }
 
 
-
-
-
-
-var a ={
+var a = {
     "Channel_ID": 2,
     "Campaign_ID": 285,
     "Campaign_Name": "goliver",
@@ -962,9 +924,7 @@ var a ={
 }
 
 
-
-
-var a ={
+var a = {
     "Channel_ID": 2,
     "Campaign_ID": 286,
     "Campaign_Name": "goliver-טיסות",
@@ -981,9 +941,7 @@ var a ={
 }
 
 
-
-
-var a ={
+var a = {
     "Channel_ID": 2,
     "Campaign_ID": 289,
     "Campaign_Name": "Tracking code for The Millionaire in PJs - Tier 4-arab",
@@ -1000,10 +958,7 @@ var a ={
 }
 
 
-
-
-
-var a ={
+var a = {
     "Channel_ID": 2,
     "Campaign_ID": 289,
     "Campaign_Name": "Tracking code for The Millionaire in PJs - Tier 4-arab",
@@ -1020,10 +975,7 @@ var a ={
 }
 
 
-
-
-
-var a ={
+var a = {
     "Channel_ID": 2,
     "Campaign_ID": 290,
     "Campaign_Name": "GetMeATicket.co.uk - Win A Trip To New York",
@@ -1040,7 +992,7 @@ var a ={
 }
 
 
-var a ={
+var a = {
     "Channel_ID": 2,
     "Campaign_ID": 291,
     "Campaign_Name": "FreeStuff - Win £500 Amazon Gift Card",
@@ -1057,11 +1009,7 @@ var a ={
 }
 
 
-
-
-
-
-var a ={
+var a = {
     "Channel_ID": 2,
     "Campaign_ID": 292,
     "Campaign_Name": "PickUpFlowers",
@@ -1077,3 +1025,19 @@ var a ={
     "Num_Of_BIDS_Won": 0
 }
 
+
+var a = {
+    "Channel_ID": 2,
+    "Campaign_ID": 293,
+    "Campaign_Name": "travelmediadirect",
+    "BID_Value": 0.011,
+    "publishers": "24",
+    "Max_Num_Of_BIDs": 90000,
+    "Bid_URL": "http://rtb.dans-leads.com/tracking?Campaign_ID=@@Campaign_ID@@&BID_ID=@@BID_ID@@",
+    "Filter_GEO": "(us)",
+    "Filter_URLs": "()",
+    "Filter_KeyWords": "()",
+    "Filter_Function": "travelmediadirect",
+    "Num_Of_BIDs_Sent": 0,
+    "Num_Of_BIDS_Won": 0
+}

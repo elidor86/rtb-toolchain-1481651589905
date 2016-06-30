@@ -1,8 +1,8 @@
 var index = {
     "settings": {
-        "index" : {
-            "number_of_shards" : 10,
-            "number_of_replicas" : 0
+        "index": {
+            "number_of_shards": 10,
+            "number_of_replicas": 0
         },
         "analysis": {
             "analyzer": {
@@ -212,7 +212,6 @@ var index = {
                 "Campaign_ID": {"type": "integer"},
                 "Campaign_Name": {"type": "string", "index": "not_analyzed"},
                 "BID_Value": {"type": "float"},
-
                 "Referrer_Hostname": {"type": "string", "index": "not_analyzed"},
                 "Max_Num_Of_BIDs": {"type": "integer"},
                 "Bid_URL": {"type": "string", "index": "not_analyzed"},
@@ -222,7 +221,6 @@ var index = {
                 "Filter_Function": {"type": "string", "index": "not_analyzed"},
                 "Num_Of_BIDs_Sent": {"type": "integer"},
                 "Num_Of_BIDS_Won": {"type": "integer"},
-
                 "Browser_Ver": {"type": "string", "index": "not_analyzed"},
                 "Language": {"type": "string", "index": "not_analyzed"},
                 "IP": {"type": "string", "index": "not_analyzed"},
@@ -234,21 +232,55 @@ var index = {
                 "BID_ID": {"type": "string", "index": "not_analyzed"},
                 "Publisher_ID": {"type": "string", "index": "not_analyzed"},
                 "latlon": {"type": "geo_point"},
-                "Query": {"type": "string", "analyzer": "job_analyzer"},
+                "Query": {
+                    "type": "string",
+                    "analyzer": "job_analyzer",
+                    "fields": {
+                        "english": {
+                            "type": "string",
+                            "analyzer": "english"
+                        },
+                        "full": {"type": "string", "index": "not_analyzed"}
+                    }
+                },
+                "utm_source": {
+                    "type": "string",
+                    "analyzer": "english",
+                    "fields": {
+                        "full": {"type": "string", "index": "not_analyzed"}
+                    }
+                },
+                "utm_medium": {
+                    "type": "string",
+                    "analyzer": "english",
+                    "fields": {
+                        "full": {"type": "string", "index": "not_analyzed"}
+                    }
+                },
+                "utm_campaign": {
+                    "type": "string",
+                    "analyzer": "english",
+                    "fields": {
+                        "full": {"type": "string", "index": "not_analyzed"}
+                    }
+                },
+                "utm_term": {
+                    "type": "string",
+                    "analyzer": "english",
+                    "fields": {
+                        "full": {"type": "string", "index": "not_analyzed"}
+                    }
+                },
                 "URL": {"type": "string", "index": "not_analyzed"},
                 "Referrer": {"type": "string", "index": "not_analyzed"},
                 "UserAgent": {"type": "string", "index": "not_analyzed"},
                 "Browser": {"type": "string", "index": "not_analyzed"},
-                "Redirect_URL": {"type": "string", "index": "not_analyzed"},
                 "URL_Hostname": {"type": "string", "index": "not_analyzed"},
                 "URL_Query_Q": {"type": "string", "index": "not_analyzed"},
                 "URL_Protocol": {"type": "string", "index": "not_analyzed"},
                 "URL_Pathname": {"type": "string", "index": "not_analyzed"},
                 "BID_url": {"type": "string", "index": "not_analyzed"},
-
                 "BID_Currency": {"type": "string", "index": "not_analyzed"},
-
-
                 "Redirect_URL": {"type": "string", "index": "not_analyzed"}
             }
         }
