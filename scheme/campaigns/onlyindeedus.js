@@ -1041,3 +1041,82 @@ var a = {
     "Num_Of_BIDs_Sent": 0,
     "Num_Of_BIDS_Won": 0
 }
+
+
+
+var a = {
+    "Channel_ID": 2,
+    "Campaign_ID": 294,
+    "network": "mb",
+    "Campaign_Name": "VivaLoan-us-50",
+    "BID_Value": 0.03,
+    "publishers": "24",
+    "Redirect_URL":"http://www.mb103.com/lnk.asp?o=6152&c=918271&a=191204&l=4864",
+    "Max_Num_Of_BIDs": 5000,
+    "Bid_URL": "http://rtb.dans-leads.com/tracking?Campaign_ID=@@Campaign_ID@@&BID_ID=@@BID_ID@@",
+    "Filter_GEO": "(us)",
+    "Filter_URLs": "()",
+    "Filter_KeyWords": "(?=.*payday)(?=.*loan)",
+    "Filter_Function": "",
+    "Num_Of_BIDs_Sent": 0,
+    "Num_Of_BIDS_Won": 0
+}
+
+
+
+var a = {
+    "Channel_ID": 2,
+    "Campaign_ID": 295,
+    "network": "mb",
+    "Campaign_Name": "Tractive",
+    "BID_Value": 0.01,
+    "Redirect_URL":"http://www.mb102.com/lnk.asp?o=9399&c=918271&a=191204&l=9065",
+    "Max_Num_Of_BIDs": 15000,
+    "Bid_URL": "http://rtb.dans-leads.com/tracking?Campaign_ID=@@Campaign_ID@@&BID_ID=@@BID_ID@@",
+    "Filter_GEO": "()",
+    "Filter_URLs": "()",
+    "Filter_KeyWords": "(\\bpet\\b)",
+    "Filter_Function": "",
+    "Num_Of_BIDs_Sent": 0,
+    "Num_Of_BIDS_Won": 0
+}
+
+
+
+var a = {
+    "Channel_ID": 2,
+    "Campaign_ID": 296,
+    "network": "mb",
+    "Campaign_Name": "scholarships",
+    "BID_Value": 0.01,
+    "Redirect_URL":"http://www.mb102.com/lnk.asp?o=9075&c=918271&a=191204&l=8504",
+    "Max_Num_Of_BIDs": 15000,
+    "Bid_URL": "http://rtb.dans-leads.com/tracking?Campaign_ID=@@Campaign_ID@@&BID_ID=@@BID_ID@@",
+    "Filter_GEO": "(us)",
+    "Filter_URLs": "()",
+    "network": "mb",
+    "Filter_KeyWords": "(scholarship)",
+    "Filter_Function": "",
+    "Num_Of_BIDs_Sent": 0,
+    "Num_Of_BIDS_Won": 0
+}
+
+
+
+var a = {
+    "Channel_ID": 2,
+    "Campaign_ID": 297,
+    "network": "mb",
+    "Campaign_Name": "BookingBuddy",
+    "BID_Value": 0.01,
+    "Redirect_URL":"http://www.mb102.com/lnk.asp?o=9296&c=918271&a=191204&l=8954",
+    "Max_Num_Of_BIDs": 15000,
+    "Bid_URL": "http://rtb.dans-leads.com/tracking?Campaign_ID=@@Campaign_ID@@&BID_ID=@@BID_ID@@",
+    "Filter_GEO": "(us)",
+    "Filter_URLs": "(google|bing|yahoo|booking)",
+    "network": "mb",
+    "Filter_KeyWords": "(hotel)",
+    "Filter_Function": "",
+    "Num_Of_BIDs_Sent": 0,
+    "Num_Of_BIDS_Won": 0
+}
