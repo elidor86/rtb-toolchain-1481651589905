@@ -30,7 +30,7 @@ automatic_scaling:
   max_num_instances: 50
   cool_down_period_sec: 120
   cpu_utilization:
-    target_utilization: 0.40
+    target_utilization: 0.70
 # [END scaling]
 
 inbound_services:
