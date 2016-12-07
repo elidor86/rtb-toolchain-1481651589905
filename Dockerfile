@@ -10,8 +10,6 @@ RUN mkdir /nodejs && curl https://nodejs.org/dist/v6.2.0/node-v6.2.0-linux-x64.t
 ENV PATH $PATH:/nodejs/bin
 
 
-
-
 # Set common env vars
 ENV NODE_ENV production
 

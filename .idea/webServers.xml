@@ -2,16 +2,16 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="5dc71ed5-113e-4305-8e4b-a778bf85f55c" name="192.168.86.129" url="http://192.168.86.129">
-        <fileTransfer host="192.168.86.129" port="21" password="dfd9dfc7dfcbdfc6dfc6dfdedfcbdfc6dfc1df92df9c" username="elidor">
+      <webServer id="5dc71ed5-113e-4305-8e4b-a778bf85f55c" name="192.168.0.102" url="http://192.168.86.129">
+        <fileTransfer host="192.168.86.129" port="22" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="21" />
+          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="7c8e3513-8c86-4294-8d42-a31fe273b735" name="130.211.116.93" url="http://130.211.116.93">
-        <fileTransfer host="130.211.116.93" port="21" username="elidorftp">
+        <fileTransfer host="130.211.116.93" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>

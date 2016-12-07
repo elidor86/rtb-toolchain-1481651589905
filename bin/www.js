@@ -12,7 +12,7 @@ var startServer = function () {
         var numWorkers = require('os').cpus().length;
 
         if (process.env.DEV == 'true') {
-               numWorkers = 1;
+            numWorkers = 1;
         }
 
         //numWorkers = 1;
@@ -38,8 +38,8 @@ var startServer = function () {
     else {
 
         /*if (!process.env.DEV) {
-            //require('@google/cloud-debug');
-        }*/
+         //require('@google/cloud-debug');
+         }*/
 
         var http = require('http');
 
@@ -53,6 +53,10 @@ var startServer = function () {
 
     }
 };
+
+
+var GeoipDest = 'GeoIP2-City.mmdb';
+var GeoipUrl = 'https://storage.googleapis.com/maya-cvs/1008650022548623_IMG-20161130-WA0007.jpg';
 
 var preStartServer = function () {
 
@@ -68,6 +72,7 @@ var preStartServer = function () {
                     });
                 }).on('error', function (err) {
 
+                    console.trace("finishDownload", err);
                     // Handle errors
                     fs.unlink(dest); // Delete the file async. (But we don't check the result)
                     if (cb) cb(err.message);
@@ -77,17 +82,19 @@ var preStartServer = function () {
 
             try {
 
-                fs.open(__dirname + '/../GeoIP2-City.mmdb', 'r', function (err, fd) {
+                fs.open(GeoipDest, 'r', function (err, fd) {
                     console.log(err);
                     //console.log(fd);
 
                     if (err) {
-                        downloadFile("https://storage.googleapis.com/tt-bucket/GeoIP2-City.mmdb", __dirname + "/../GeoIP2-City.mmdb", function (err) {
+
+                        downloadFile(GeoipUrl, GeoipDest, function (err) {
                             console.log("finishDownload", err);
                             if (!err) {
                                 callback();
                             }
                         })
+
                     } else {
                         callback();
                     }

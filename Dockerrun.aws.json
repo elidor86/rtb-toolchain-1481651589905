@@ -1,0 +1,18 @@
+{
+  "AWSEBDockerrunVersion": "1",
+  "Authentication": {
+    "Bucket": "docker-configs-adworks",
+    "Key": "dockerCred.json"
+  },
+  "Image": {
+    "Name": "adworks/rtb",
+    "Update": "true"
+  },
+  "Ports": [
+    {
+      "hostPort": 80,
+      "ContainerPort": "8080"
+    }
+  ],
+  "Logging": "/var/log/nginx"
+}
