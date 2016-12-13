@@ -1,8 +1,8 @@
 applications:
 - path: .
-  memory: 256M
+  memory: 1500M
   instances: 1
   domain: mybluemix.net
   name: rtb
   host: rtb
-  disk_quota: 1024M
+  disk_quota: 10240M
