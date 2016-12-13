@@ -37,9 +37,6 @@ var startServer = function () {
     }
     else {
 
-        /*if (!process.env.DEV) {
-         //require('@google/cloud-debug');
-         }*/
 
         var http = require('http');
 
