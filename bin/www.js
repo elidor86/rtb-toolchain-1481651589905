@@ -3,7 +3,7 @@ var os = require('os');
 var async = require('async');
 var https = require('https');
 var fs = require('fs');
-
+var cfenv = require('cfenv');
 
 var startServer = function () {
 
@@ -48,8 +48,9 @@ var startServer = function () {
 
 
         http.globalAgent.maxSockets = Infinity;
-
-        var httpServer = http.createServer(app).listen(process.env.PORT || 3000);
+        var appEnv = cfenv.getAppEnv();
+        console.log("appEnv.port ", appEnv.port);
+        var httpServer = http.createServer(app).listen(appEnv.port || 3000);
 
     }
 };
